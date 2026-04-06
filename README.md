@@ -203,7 +203,7 @@ Total:                                 2,004 features + 1 label column
 ## 👤 ผู้พัฒนา
 
 **Manchuphon (Aoy)**  
-Super AI Engineer Season 6
+
 
 ---
 
