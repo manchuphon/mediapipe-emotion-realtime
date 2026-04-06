@@ -20,7 +20,7 @@
 | 😭 Crying | ร้องไห้ | 221 |
 
 ---
-
+<img width="751" height="562" alt="Screenshot 2026-04-07 040747" src="https://github.com/user-attachments/assets/01ed8d79-f7f1-4cb4-80f0-3743cea3feb1" />
 ## 🗂️ โครงสร้างโปรเจกต์
 
 ```
@@ -102,7 +102,7 @@ cv2.rectangle(image, (coords[0], coords[1]+5),
               (coords[0] + len(class_name)*20, coords[1]-30), (245,117,16), -1)
 cv2.putText(image, class_name, coords, ...)
 ```
-<img width="751" height="562" alt="Screenshot 2026-04-07 040747" src="https://github.com/user-attachments/assets/01ed8d79-f7f1-4cb4-80f0-3743cea3feb1" />
+
 ---
 
 ## 🛠️ การติดตั้ง
