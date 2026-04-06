@@ -21,6 +21,8 @@
 
 ---
 <img width="751" height="562" alt="Screenshot 2026-04-07 040747" src="https://github.com/user-attachments/assets/01ed8d79-f7f1-4cb4-80f0-3743cea3feb1" />
+```
+
 ## 🗂️ โครงสร้างโปรเจกต์
 
 ```
