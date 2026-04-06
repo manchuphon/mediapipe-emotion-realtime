@@ -5,6 +5,7 @@
 
 ---
 
+
 ## 📌 Overview
 
 โปรเจกต์นี้สร้างระบบที่ตรวจจับท่าทางร่างกายและใบหน้าจากกล้องเว็บแคมแบบ real-time แล้วจำแนกเป็นอารมณ์ 4 ประเภท โดยใช้ MediaPipe Holistic ร่วมกับ Face Mesh เพื่อเก็บ landmarks ทั้งร่างกายและใบหน้า จากนั้นฝึก ML classifier และแสดงผลทำนายบนหน้าจอแบบ real-time
@@ -101,7 +102,7 @@ cv2.rectangle(image, (coords[0], coords[1]+5),
               (coords[0] + len(class_name)*20, coords[1]-30), (245,117,16), -1)
 cv2.putText(image, class_name, coords, ...)
 ```
-
+<img width="751" height="562" alt="Screenshot 2026-04-07 040747" src="https://github.com/user-attachments/assets/01ed8d79-f7f1-4cb4-80f0-3743cea3feb1" />
 ---
 
 ## 🛠️ การติดตั้ง
